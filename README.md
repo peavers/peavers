@@ -6,4 +6,8 @@
 &nbsp;
 <a href="https://github.com/peavers-archive"><img src="https://img.shields.io/badge/peavers--archive-000?style=for-the-badge&logo=git&logoColor=white" alt="peavers-archive"/></a>
 
+<br/>
+
+<sub>For business inquiries — <a href="mailto:chris@forloop.space">chris@forloop.space</a></sub>
+
 </div>
